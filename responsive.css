@@ -80,5 +80,49 @@ padding: 20px 5px;
 
 /* =========mail ends here================ */
 
+/* ==============post card starts ==========*/
 
+
+#postcards {
+    height: auto;
+    padding-top: 10px;
+  
+}
+#postcards .headingpost {
+    font-size: 29px;
+    margin-bottom: 40px;
+}
+.div-1 {
+    
+    margin-bottom: 40px;
+}
+
+.div-1 img{
+    width: 100%;
+}
+
+.div-2 {
+    margin-bottom: 43px;
+    
+}
+.div-2 h2 {
+
+    margin-left: 0px;
+    
+}
+
+.div-2 p {
+    margin-left: 0px;
+    
+}
+
+.div-2 img {
+    margin-left: 0px;
+    width: 100%;
+}
+
+.div-3 img{
+    width: 100%;
+}
+/* ============post-cards ends ====================*/
 }
