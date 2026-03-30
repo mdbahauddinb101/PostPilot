@@ -1,0 +1,15 @@
+
+@media (min-width: 320px) and (max-width: 575px) {
+
+
+/* =====nav starts =========*/
+.nav-parents {
+    flex-direction: column;
+}
+
+.nav-parents ul {
+   flex-direction: column;
+
+}
+
+}
