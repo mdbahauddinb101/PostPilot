@@ -40,6 +40,31 @@
  
 }
 
-}
+
 
 /*=================== banner ends============================ */
+.brands-image {
+ flex-wrap: wrap;
+ gap: 10px;
+   
+}
+
+.brands-image img{
+  width: 48%;
+    
+   
+}
+#brands h2 {
+   
+    font-size: 42px;
+}
+
+#brands {
+    height: 660px;
+    padding: 20px 0px;
+}
+/*============== brands ends here================ */
+
+
+
+}

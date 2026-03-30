@@ -94,3 +94,57 @@
 }
 
 /* =======banner parts ends============ */
+
+/* ====brands parts start===== */
+#brands {
+    height: 660px;
+    padding: 106px 0px 96px 0px;
+}
+
+#brands h2 {
+    max-width: 650px;
+    font-size: 63px;
+    font-weight: 700;
+    font-family: "Inter", sans-serif;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 58px;
+
+}
+
+.brands-image {
+    display: flex;
+    gap: 64px;
+
+}
+
+/* ==========brands ends============ */
+#mails {
+    background-color: #F3FAFA;
+    height: 645px;
+    padding-top: 106px;
+    padding-bottom: 96px;
+}
+
+#mails h2 {
+    max-width: 600px;
+    font-size: 63px;
+    font-weight: 700;
+    font-family: "Inter", sans-serif;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 58px;
+}
+
+.mail-img {
+    display: flex;
+    gap: 170px;
+    justify-content: center;
+    align-items: center;
+}
+
+/* =======mails ends=============== */
