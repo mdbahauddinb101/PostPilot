@@ -11,5 +11,35 @@
    flex-direction: column;
 
 }
+/*================== nav ends ===============*/
+.banner-right {
+  
+    display: none;
+   
+}
+
+.banner-left h1 {
+ 
+    line-height: 38px; 
+     font-size: 35px;
+    
+}
+.banner-button {
+  flex-direction: column;
+    gap: 20px;
+}
+.rating{
+    display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#banner {
+    height: auto;
+    padding: 20px 0px;
+ 
+}
 
 }
+
+/*=================== banner ends============================ */
