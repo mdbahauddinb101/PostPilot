@@ -65,6 +65,20 @@
 }
 /*============== brands ends here================ */
 
+#mails {
+   height: auto;
+padding: 20px 5px;
+}
+.mail-img {
+    flex-direction: column;
+    gap: 50px;
+}
+#mails h2 {
+ 
+    font-size: 40px;
+}
+
+/* =========mail ends here================ */
 
 
 }
