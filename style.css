@@ -273,7 +273,9 @@
 /* =================postcards ends=========== */
 
 /* =================cards start================== */
-
+#cards{
+    margin-bottom: 40px;
+}
 .card{
     width:410px ;
     height:506px;
@@ -325,3 +327,83 @@
 }
 /* ========cards ends========== */
 
+/* =========result start============= */
+.width-1{
+    width: 50%;
+    /* height: 100px; */
+   margin: 0 auto;
+}
+#result{
+    background-color: #E3F8F8;
+    height: 550px;
+
+
+}
+.result-heading{
+    text-align: center;
+    align-items: center;
+    padding:106px 305px 60px 305px ;
+}
+
+
+.accordion-button {
+    
+    
+    width:0px;
+
+    
+    
+}
+
+.accordion {
+  
+    
+    --bs-accordion-bg: none
+    ;
+    color: rgba(46, 47, 53,.5);
+    
+}
+.accordion-button::after {
+    
+    
+    width: 
+    0px;
+    
+    
+}
+
+.accordion-button {
+    width: 100%;
+}
+
+/* =====accordion ends====== */
+
+
+
+/* ============footer start============== */
+#footer{
+    padding-top: 95px;
+}
+
+#footer ul{
+     list-style-type:none ;
+}
+#footer ul li {
+    margin-bottom: 27px;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-btn button{
+    padding: 10px 20px;
+    background-color:#FF6D2C;;
+    border-radius: 10px;
+    border: none;
+    color:white;
+}
+
+
+/* =================footer ends ==================*/
